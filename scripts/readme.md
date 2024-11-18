@@ -1,1 +1,2 @@
 # Exploratory Data Analysis/ Feature Engineering
+Based on the columns with excessive null values in the Graduation Results dataset, I either dropped the columns or filled the missing values where appropriate. I also created a new column to represent the borough of the school using the geographic subdivision information and converted relevant columns to float data types to ensure consistency and compatibility for modeling.
