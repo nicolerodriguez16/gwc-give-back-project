@@ -1,4 +1,4 @@
-# GWC Leadership Academy Give Back Project
+# RTX x GWC Leadership Academy Give Back Project
  This project was chosen to analyze academic performance and educational outcomes among students from New York City. Growing up ina low-income community and later attending different schools provided me with firsthand insight into how socio-economic factors and school resources can impact educational attainment. 
 
 # Goal:
